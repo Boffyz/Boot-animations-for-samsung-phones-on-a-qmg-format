@@ -70,6 +70,73 @@ the rom you're on reads the bootanimation.zip file, which shows it based on its 
 
 ## Installation Guide
 
+1. **Download** your chosen boot animation
+2. **Open** a file explorer with root rights.
+3. replace it with your new bootanimation.
+4. give it its permissions (aka 644)
+5. **Reboot** your device.
+6. **Enjoy** the new boot animation :3
+
+## Important Notes
+
+- these files are only for custom roms.
+- if you're having issues with sending them to your phone that has a custom rom, try https://github.com/agreenbhm/magic_overlayfs.
+- Use at your own risk—always back up your device before modifying system files.
+- inspired by https://github.com/John0n1/SMbootFX
+
+## Troubleshooting
+
+- If the animation doesn't change, ensure you've moved it to the right directory.
+
+## Supported Devices
+
+Most phones devices manufactured after 2012 are supported.
+
+Confirmed working on:
+
+* **Galaxy A series:** A13, A5 (2017)
+
+To confirm support for your specific device, check if the following files exist in either `/system/media/` or `/vendor/media/`:
+
+* `bootanimation.zip`
+
+If that file is present, your device should be compatible.
+
+## Contributions and Requests
+
+Feel free to open an issue for bug reports, feature requests, or new theme suggestions.  
+Pull requests are welcome for new themes or improvements!
+
+## Credits
+
+The .zip files used in this project are made by various creators and devs, and credits goes to their respective owner
+
+## Notices
+
+- This project is **not** affiliated with, sponsored, or endorsed by Samsung Electronics Co., Ltd., or any other mentioned or themed brands. All trademarks are the property of their respective owners.
+- The `.zip` files are only distributed inside as replaceable files in the **Releases** section due to GitHub file size limitations.
+- Be cautious when downloading forked versions—especially faulty `.zip` files—from unknown sources, as they may not boot at all.
+- All .zip's created by **Boffyz** are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). The project’s source code is licensed under the **MIT License**.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).ns.org/licenses/by-nc/4.0/). The project’s source code is licensed under the **MIT License**.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).ed under the [MIT License](LICENSE).ns.org/licenses/by-nc/4.0/). The project’s source code is licensed under the **MIT License**.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).nimation** that plays after the bootlogo, during the Android system startup.
+2. They are not for samsung phones with stock (rooted) oneui as their os
+
+## How It Works
+
+the rom you're on reads the bootanimation.zip file, which shows it based on its resolution and frames it was compressed with 
+
+## Installation Guide
+
 1. **Download** your chosen boot animation module from the table above.
 2. **Open** a file explorer with root rights.
 3. replace it with your new bootanimation.
