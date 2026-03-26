@@ -12,7 +12,7 @@ These .zip files replace the default boot animation with themed ones, offering a
 <div align="center">
   <h3>All themes are provided as .zip files. so just replace them?</h3>
 
-[![Magisk 420+](https://img.shields.io/badge/Magisk-27+-000000?style=flat&logo=magisk&logoColor=lightgreen)](https://github.com/topjohnwu/Magisk)
+[![Magisk 420+](https://img.shields.io/badge/Magisk-420+-000000?style=flat&logo=magisk&logoColor=lightgreen)](https://github.com/topjohnwu/Magisk)
 [![Android 4-16](https://img.shields.io/badge/Android-4<16-000000?style=flat&logo=android&logoColor=white)](https://www.android.com/)
 
 ________________________________________________________________
