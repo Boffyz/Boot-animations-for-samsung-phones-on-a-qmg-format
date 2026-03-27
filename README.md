@@ -19,8 +19,8 @@ ________________________________________________________________
 
 | Theme | Preview | Download |
 |-------|---------|----------|
-| **test** | <img src="previews/Cyanogenmod7.gif" alt="Cyanogenmod 7" width="160"> | [android-bootfx-3.0.3-magisk.zip](https://github.com/Boffyssb2/Boot-animations-for-samsung-phones-on-a-qmg-format/releases/download/bootanimation/video2.gif) |  |
-| **Android - Red** | <img src="examples/Cyanogenmod12.gif" alt="Cyanogenmod12" width="160"> | [android-red-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/android-red-bootfx-3.0.3-magisk.zip) |  |
+| **Cyanogenmod7** | <img src="previews/Cyanogenmod7.gif" alt="Cyanogenmod 7" width="160"> | [android-bootfx-3.0.3-magisk.zip](https://github.com/Boffyssb2/Boot-animations-for-samsung-phones-on-a-qmg-format/releases/download/bootanimation/video2.gif) |  |
+| **Cyanogenmod12** | <img src="examples/Cyanogenmod12.gif" alt="Cyanogenmod12" width="160"> | [android-red-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/android-red-bootfx-3.0.3-magisk.zip) |  |
 | **Android Green** | <img src="examples/android-green-on-black-bootfx.gif" alt="Android Green on Black" width="160"> | [android-green-on-black-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/android-green-on-black-bootfx-3.0.3-magisk.zip) |  |
 | **Android White on Plum** | <img src="examples/android-white-on-plum-bootfx.gif" alt="Android White on Plum" width="160"> | [android-white-on-plum-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/android-white-on-plum-bootfx-3.0.3-magisk.zip) |  |
 | **MIUI Blue Android on Black** | <img src="examples/miui-blue-android-on-black-bootfx.gif" alt="MIUI Blue Android on Black" width="160"> | [miui-blue-android-on-black-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/miui-blue-android-on-black-bootfx-3.0.3-magisk.zip) |  |
