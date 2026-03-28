@@ -83,10 +83,6 @@ the rom you're on reads the bootanimation.zip file, which shows it based on its 
 - Use at your own risk—always back up your device before modifying system files.
 - inspired by https://github.com/John0n1/SMbootFX
 
-## Troubleshooting
-
-- If the animation doesn't change, ensure you've moved it to the right directory.
-
 ## Supported Devices
 
 Most phones devices manufactured after 2012 are supported.
