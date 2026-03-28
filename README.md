@@ -110,26 +110,6 @@ Pull requests are welcome for new themes or improvements!
 
 The .zip files used in this project are made by various creators and devs, and credits goes to their respective owner
 
-## Notices
-
-- This project is **not** affiliated with, sponsored, or endorsed by Samsung Electronics Co., Ltd., or any other mentioned or themed brands. All trademarks are the property of their respective owners.
-- The `.zip` files are only distributed inside as replaceable files in the **Releases** section due to GitHub file size limitations.
-- Be cautious when downloading forked versions—especially faulty `.zip` files—from unknown sources, as they may not boot at all.
-- All .zip's created by **Boffyz** are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). The project’s source code is licensed under the **MIT License**.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).ns.org/licenses/by-nc/4.0/). The project’s source code is licensed under the **MIT License**.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).ed under the [MIT License](LICENSE).ns.org/licenses/by-nc/4.0/). The project’s source code is licensed under the **MIT License**.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).nimation** that plays after the bootlogo, during the Android system startup.
-2. They are not for samsung phones with stock (rooted) oneui as their os
-
 ## How It Works
 
 the rom you're on reads the bootanimation.zip file, which shows it based on its resolution and frames it was compressed with 
@@ -182,7 +162,7 @@ The .zip files used in this project are made by various creators and devs, and c
 - This project is **not** affiliated with, sponsored, or endorsed by Samsung Electronics Co., Ltd., or any other mentioned or themed brands. All trademarks are the property of their respective owners.
 - The `.zip` files are only distributed inside as replaceable files in the **Releases** section due to GitHub file size limitations.
 - Be cautious when downloading forked versions—especially faulty `.zip` files—from unknown sources, as they may not boot at all.
-- All .zip's created by **Boffyz** are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). The project’s source code is licensed under the **MIT License**.
+- All .zip's created by **Boffy** are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). The project’s source code is licensed under the **MIT License**.
 
 ## License
 
